@@ -17,6 +17,7 @@ class App extends Component {
           In React apps, we write JSX - it looks like HTML, and uses a lot HTML syntax.
           JSX lets us include JavaScript functions right along with the HTML, and also
           allows us to add in components, which are separate, self-contained chunks of of JSX.
+          This is my first react application.
         </p>
         <ExampleComponent />
 
